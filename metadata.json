@@ -1,0 +1,6 @@
+{
+  "name": "Vendas Insight Dashboard",
+  "description": "Painel executivo de análise de vendas com rankings, KPIs e detecção de anomalias regionais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
